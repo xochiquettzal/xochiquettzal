@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: argoDeneme
+metadata:
+  name: argo-demo
